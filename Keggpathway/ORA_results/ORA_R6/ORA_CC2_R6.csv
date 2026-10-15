@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0032991","protein-containing complex","5/25","2043/6349",0.00244738130200685,0.62153695545766,-1.30590980318201,0.941514724258924,0.941514724258924,NA,"LOC120772771/LOC120770688/LOC120778527/LOC120770549/LOC120771135",5

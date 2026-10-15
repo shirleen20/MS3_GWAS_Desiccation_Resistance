@@ -1,0 +1,538 @@
+XP_039970525.1	LOC120782355	uncharacterized protein LOC120782355 isoform X1
+XP_039970528.1	LOC120782355	uncharacterized protein LOC120782355 isoform X3
+XP_039970526.1	LOC120782355	uncharacterized protein LOC120782355 isoform X2
+XP_039971362.1	LOC120782880	organic cation transporter protein-like
+XP_039950757.1	LOC120768234	ataxin-2 homolog
+XP_039954647.1	LOC120770974	furin-like protease 1
+XP_039954656.1	LOC120770974	furin-like protease 1
+XP_039954664.1	LOC120770974	furin-like protease 1
+XP_039971010.1	LOC120782685	kelch-like protein 2
+XP_039957920.1	LOC120773051	uncharacterized protein LOC120773051 isoform X1
+XP_039957926.1	LOC120773051	uncharacterized protein LOC120773051 isoform X1
+XP_039957934.1	LOC120773051	uncharacterized protein LOC120773051 isoform X1
+XP_039957951.1	LOC120773051	uncharacterized protein LOC120773051 isoform X3
+XP_039957941.1	LOC120773051	uncharacterized protein LOC120773051 isoform X2
+XP_039961894.1	LOC120775674	uncharacterized protein LOC120775674 isoform X1
+XP_039961903.1	LOC120775674	uncharacterized protein LOC120775674 isoform X1
+XP_039961913.1	LOC120775674	uncharacterized protein LOC120775674 isoform X1
+XP_039961920.1	LOC120775674	uncharacterized protein LOC120775674 isoform X1
+XP_039961930.1	LOC120775674	uncharacterized protein LOC120775674 isoform X1
+XP_039961939.1	LOC120775674	uncharacterized protein LOC120775674 isoform X2
+XP_039961859.1	LOC120775658	CUGBP Elav-like family member 2 isoform X1
+XP_039961867.1	LOC120775658	poly(U)-binding-splicing factor half pint isoform X2
+XP_039947980.1	LOC120766495	glutamate receptor 1
+XP_039969315.1	LOC120781238	esterase B1-like
+XP_039968119.1	LOC120779809	salivary glue protein Sgs-3
+XP_039968126.1	LOC120779816	uncharacterized protein LOC120779816
+XP_039969861.1	LOC120781699	esterase B1-like
+XP_039948559.1	LOC120766882	esterase B1 isoform X1
+XP_039948560.1	LOC120766882	esterase B1 isoform X2
+XP_039948548.1	LOC120766880	esterase B1 isoform X1
+XP_039948549.1	LOC120766880	esterase B1 isoform X1
+XP_039948550.1	LOC120766880	esterase B1 isoform X1
+XP_039948551.1	LOC120766880	esterase B1 isoform X1
+XP_039948552.1	LOC120766880	esterase B1 isoform X1
+XP_039948553.1	LOC120766880	esterase B1 isoform X1
+XP_039948554.1	LOC120766880	esterase B1 isoform X2
+XP_039948555.1	LOC120766880	esterase B1 isoform X3
+XP_039948556.1	LOC120766880	esterase B1 isoform X3
+XP_039948557.1	LOC120766880	esterase B1 isoform X3
+XP_039959699.1	LOC120774273	esterase B1
+XP_039953521.1	LOC120770270	esterase B1-like isoform X1
+XP_039953529.1	LOC120770270	esterase B1-like isoform X2
+XP_039953539.1	LOC120770270	esterase B1-like isoform X2
+XP_039953549.1	LOC120770270	esterase B1-like isoform X2
+XP_039953558.1	LOC120770270	esterase B1-like isoform X2
+XP_039953564.1	LOC120770270	esterase B1-like isoform X2
+XP_039953574.1	LOC120770270	esterase B1-like isoform X2
+XP_039970589.1	LOC120782408	LOW QUALITY PROTEIN: uncharacterized protein LOC120782408
+XP_039953629.1	LOC120770315	esterase B1-like
+XP_039965170.1	LOC120777742	neuroligin-4, Y-linked
+XP_039965178.1	LOC120777742	neuroligin-4, Y-linked
+XP_039971223.1	LOC120782810	uncharacterized protein LOC120782810
+XP_039948284.1	LOC120766703	uncharacterized protein LOC120766703
+XP_039947661.1	LOC120766310	uncharacterized protein LOC120766310
+XP_039964035.1	LOC120776996	serine protease 7
+XP_039970431.1	LOC120782293	trypsin-like
+XP_039967879.1	LOC120779597	arrestin domain-containing protein 17-like
+XP_039971340.1	LOC120782866	diacylglycerol kinase eta isoform X1
+XP_039971341.1	LOC120782866	diacylglycerol kinase eta isoform X2
+XP_039971343.1	LOC120782866	diacylglycerol kinase eta isoform X2
+XP_039948714.1	LOC120766982	uncharacterized protein LOC120766982 isoform X4
+XP_039948713.1	LOC120766982	neurofilament heavy polypeptide-like isoform X3
+XP_039948712.1	LOC120766982	neurofilament heavy polypeptide-like isoform X2
+XP_039948711.1	LOC120766982	uncharacterized protein LOC120766982 isoform X1
+XP_039952527.1	LOC120769544	LOW QUALITY PROTEIN: alpha-mannosidase 2
+XP_039970458.1	LOC120782308	DNA replication licensing factor REC isoform X1
+XP_039970459.1	LOC120782308	DNA replication licensing factor REC isoform X2
+XP_039970460.1	LOC120782310	nose resistant to fluoxetine protein 6
+XP_039969690.1	LOC120781520	putative epidermal cell surface receptor isoform X3
+XP_039969678.1	LOC120781520	putative epidermal cell surface receptor isoform X1
+XP_039969685.1	LOC120781520	putative epidermal cell surface receptor isoform X2
+XP_039968412.1	LOC120780223	uncharacterized protein LOC120780223
+XP_039947975.1	LOC120766490	uncharacterized protein LOC120766490
+XP_039947976.1	LOC120766490	uncharacterized protein LOC120766490
+XP_039953448.1	LOC120770229	uncharacterized protein LOC120770229
+XP_039948568.1	LOC120766888	protein roadkill isoform X1
+XP_039948569.1	LOC120766888	protein roadkill isoform X2
+XP_039948570.1	LOC120766888	protein roadkill isoform X3
+XP_039948572.1	LOC120766888	protein roadkill isoform X3
+XP_039968932.1	LOC120780731	protein neuralized isoform X2
+XP_039968927.1	LOC120780731	protein neuralized isoform X1
+XP_039968989.1	LOC120780807	Kv channel-interacting protein 1
+XP_039968992.1	LOC120780807	Kv channel-interacting protein 1
+XP_039968996.1	LOC120780807	Kv channel-interacting protein 1
+XP_039970691.1	LOC120782466	solute carrier family 22 member 13
+XP_039970692.1	LOC120782466	solute carrier family 22 member 13
+XP_039957483.1	LOC120772771	neuronal PAS domain-containing protein 2
+XP_039957491.1	LOC120772771	neuronal PAS domain-containing protein 2
+XP_039957498.1	LOC120772771	neuronal PAS domain-containing protein 2
+XP_039957506.1	LOC120772771	neuronal PAS domain-containing protein 2
+XP_039958246.1	LOC120773428	neuroligin 4-like
+XP_039948497.1	LOC120766849	putative transcription factor capicua isoform X1
+XP_039948498.1	LOC120766849	putative transcription factor capicua isoform X1
+XP_039948499.1	LOC120766849	putative transcription factor capicua isoform X2
+XP_039948602.1	LOC120766923	uncharacterized protein LOC120766923
+XP_039948368.1	LOC120766761	arrestin domain-containing protein 3 isoform X1
+XP_039948369.1	LOC120766761	arrestin domain-containing protein 17 isoform X2
+XP_039969148.1	LOC120781052	meckelin isoform X1
+XP_039969151.1	LOC120781052	meckelin isoform X2
+XP_039948137.1	LOC120766598	SPRY domain-containing protein 7
+XP_039970876.1	LOC120782591	LOW QUALITY PROTEIN: probable serine/threonine-protein kinase DDB_G0267686
+XP_039970977.1	LOC120782665	uncharacterized protein LOC120782665 isoform X2
+XP_039970978.1	LOC120782665	uncharacterized protein LOC120782665 isoform X3
+XP_039970976.1	LOC120782665	uncharacterized protein LOC120782665 isoform X1
+XP_039964452.1	LOC120777287	heparan-sulfate 6-O-sulfotransferase 2 isoform X2
+XP_039964435.1	LOC120777287	heparan-sulfate 6-O-sulfotransferase 1 isoform X1
+XP_039964444.1	LOC120777287	heparan-sulfate 6-O-sulfotransferase 1 isoform X1
+XP_039964462.1	LOC120777287	heparan-sulfate 6-O-sulfotransferase 1 isoform X3
+XP_039971371.1	LOC120782889	uncharacterized protein LOC120782889
+XP_039970937.1	LOC120782635	insulin-like receptor
+XP_039970938.1	LOC120782635	insulin-like receptor
+XP_039947934.1	LOC120766465	trichoplein keratin filament-binding protein
+XP_039947936.1	LOC120766465	trichoplein keratin filament-binding protein
+XP_039947937.1	LOC120766465	trichoplein keratin filament-binding protein
+XP_039947641.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947642.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947643.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947644.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947645.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947646.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947647.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X1
+XP_039947648.1	LOC120766301	putative uncharacterized protein DDB_G0282133 isoform X2
+XP_039970015.1	LOC120781839	low-density lipoprotein receptor isoform X4
+XP_039969995.1	LOC120781839	low-density lipoprotein receptor isoform X1
+XP_039969998.1	LOC120781839	low-density lipoprotein receptor isoform X1
+XP_039970004.1	LOC120781839	low-density lipoprotein receptor isoform X2
+XP_039970022.1	LOC120781839	very low-density lipoprotein receptor isoform X5
+XP_039970024.1	LOC120781839	very low-density lipoprotein receptor isoform X5
+XP_039970025.1	LOC120781839	very low-density lipoprotein receptor isoform X5
+XP_039970026.1	LOC120781839	very low-density lipoprotein receptor isoform X5
+XP_039970028.1	LOC120781839	very low-density lipoprotein receptor isoform X5
+XP_039970029.1	LOC120781839	very low-density lipoprotein receptor isoform X5
+XP_039970011.1	LOC120781839	low-density lipoprotein receptor isoform X3
+XP_039955097.1	LOC120771243	maternal protein pumilio
+XP_039954261.1	LOC120770735	chromosomal protein D1-like
+XP_039965467.1	LOC120777935	G protein-activated inward rectifier potassium channel 3 isoform X1
+XP_039965476.1	LOC120777935	G protein-activated inward rectifier potassium channel 3 isoform X2
+XP_039949044.1	LOC120767250	F-box/LRR-repeat protein 7-like
+XP_039949054.1	LOC120767250	F-box/LRR-repeat protein 7-like
+XP_039949062.1	LOC120767250	F-box/LRR-repeat protein 7-like
+XP_039951285.1	LOC120768588	LOW QUALITY PROTEIN: poly [ADP-ribose
+XP_039948515.1	LOC120766854	LOW QUALITY PROTEIN: uncharacterized protein LOC120766854
+XP_039970448.1	LOC120782304	pickpocket protein 19
+XP_039947511.1	LOC120766209	RNA polymerase II elongation factor Ell-like
+XP_039948838.1	LOC120767050	histone-lysine N-methyltransferase trithorax
+XP_039948451.1	LOC120766809	dystrophin, isoforms A/C/F/G/H isoform X4
+XP_039948449.1	LOC120766809	dystrophin, isoforms A/C/F/G/H isoform X2
+XP_039948448.1	LOC120766809	dystrophin, isoforms A/C/F/G/H isoform X1
+XP_039948450.1	LOC120766809	dystrophin, isoforms A/C/F/G/H isoform X3
+XP_039948452.1	LOC120766809	dystrophin isoform X5
+XP_039948453.1	LOC120766809	dystrophin isoform X5
+XP_039948455.1	LOC120766812	uncharacterized protein LOC120766812
+XP_039970680.1	LOC120782456	uncharacterized protein LOC120782456
+XP_039948581.1	LOC120766898	uncharacterized protein LOC120766898
+XP_039970918.1	LOC120782615	ETS-like protein pointed isoform X2
+XP_039970917.1	LOC120782615	ETS-like protein pointed isoform X1
+XP_039969225.1	LOC120780842	DNA polymerase alpha subunit B
+XP_039970934.1	LOC120782632	trichoplein keratin filament-binding protein
+XP_039970715.1	LOC120782483	autophagy-related protein 16-1 isoform X2
+XP_039970716.1	LOC120782483	autophagy-related protein 16-1 isoform X3
+XP_039970714.1	LOC120782483	autophagy-related protein 16-1 isoform X1
+XP_039970484.1	LOC120782326	oxysterol-binding protein-related protein 8 isoform X3
+XP_039970482.1	LOC120782326	oxysterol-binding protein-related protein 8 isoform X2
+XP_039970481.1	LOC120782326	oxysterol-binding protein-related protein 8 isoform X1
+XP_039970485.1	LOC120782326	oxysterol-binding protein-related protein 8 isoform X4
+XP_039971043.1	LOC120782703	protein fork head-like
+XP_039964890.1	LOC120777560	cadherin-99C
+XP_039966315.1	LOC120778535	cation-independent mannose-6-phosphate receptor isoform X1
+XP_039966324.1	LOC120778535	cation-independent mannose-6-phosphate receptor isoform X2
+XP_039970365.1	LOC120782262	homeotic protein labial-like
+XP_039952658.1	LOC120769560	protein lap4 isoform X10
+XP_039952579.1	LOC120769560	uncharacterized protein LOC120769560 isoform X2
+XP_039952585.1	LOC120769560	uncharacterized protein LOC120769560 isoform X3
+XP_039952592.1	LOC120769560	uncharacterized protein LOC120769560 isoform X4
+XP_039952621.1	LOC120769560	protein lap4 isoform X7
+XP_039952613.1	LOC120769560	uncharacterized protein LOC120769560 isoform X6
+XP_039952649.1	LOC120769560	protein lap4 isoform X9
+XP_039952603.1	LOC120769560	uncharacterized protein LOC120769560 isoform X5
+XP_039952551.1	LOC120769560	uncharacterized protein LOC120769560 isoform X1
+XP_039952558.1	LOC120769560	uncharacterized protein LOC120769560 isoform X1
+XP_039952565.1	LOC120769560	uncharacterized protein LOC120769560 isoform X1
+XP_039952573.1	LOC120769560	uncharacterized protein LOC120769560 isoform X1
+XP_039952630.1	LOC120769560	uncharacterized protein LOC120769560 isoform X8
+XP_039952641.1	LOC120769560	uncharacterized protein LOC120769560 isoform X8
+XP_039952666.1	LOC120769560	uncharacterized protein LOC120769560 isoform X11
+XP_039962493.1	LOC120776083	alkaline phosphatase 4
+XP_039947571.1	LOC120766250	polypyrimidine tract-binding protein 1 isoform X3
+XP_039947567.1	LOC120766250	polypyrimidine tract-binding protein 1 isoform X1
+XP_039947568.1	LOC120766250	polypyrimidine tract-binding protein 1 isoform X2
+XP_039947569.1	LOC120766250	polypyrimidine tract-binding protein 1 isoform X2
+XP_039947570.1	LOC120766250	polypyrimidine tract-binding protein 1 isoform X2
+XP_039947572.1	LOC120766250	polypyrimidine tract-binding protein 1 isoform X4
+XP_039948145.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948153.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948161.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948169.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948177.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948184.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948192.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948200.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948210.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948219.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039948227.1	LOC120766603	serine/threonine-protein kinase D3
+XP_039970969.1	LOC120782660	general odorant-binding protein 83a-like
+XP_039970942.1	LOC120782641	uncharacterized protein LOC120782641
+XP_039970943.1	LOC120782641	uncharacterized protein LOC120782641
+XP_039970944.1	LOC120782641	uncharacterized protein LOC120782641
+XP_039951754.1	LOC120768988	protein spire isoform X1
+XP_039951755.1	LOC120768988	protein spire isoform X1
+XP_039951757.1	LOC120768988	protein spire isoform X3
+XP_039951756.1	LOC120768988	protein spire isoform X2
+XP_039952011.1	LOC120769187	protein bowel
+XP_039952012.1	LOC120769187	protein bowel
+XP_039952013.1	LOC120769187	protein bowel
+XP_039952014.1	LOC120769187	protein bowel
+XP_039949108.1	LOC120767293	serine-rich adhesin for platelets-like isoform X2
+XP_039949111.1	LOC120767293	uncharacterized protein LOC120767293 isoform X4
+XP_039949109.1	LOC120767293	uncharacterized protein LOC120767293 isoform X3
+XP_039949107.1	LOC120767293	serine-rich adhesin for platelets-like isoform X1
+XP_039951763.1	LOC120768995	dedicator of cytokinesis protein 9 isoform X2
+XP_039951762.1	LOC120768995	dedicator of cytokinesis protein 9 isoform X1
+XP_039951764.1	LOC120768995	dedicator of cytokinesis protein 9 isoform X3
+XP_039952526.1	LOC120769547	titin isoform X1
+XP_039952528.1	LOC120769547	protein sax-3 isoform X2
+XP_039952529.1	LOC120769547	protein sax-3 isoform X2
+XP_039952530.1	LOC120769547	protein sax-3 isoform X2
+XP_039951817.1	LOC120769039	uncharacterized protein LOC120769039
+XP_039952076.1	LOC120769242	sterol carrier protein 2
+XP_039950647.1	LOC120768152	zinc finger protein ush
+XP_039952173.1	LOC120769306	neurogenic protein big brain
+XP_039950191.1	LOC120767907	uncharacterized protein LOC120767907 isoform X1
+XP_039950192.1	LOC120767907	disintegrin and metalloproteinase domain-containing protein 10 isoform X2
+XP_039950472.1	LOC120768037	sodium/potassium-transporting ATPase subunit beta-2 isoform X2
+XP_039950470.1	LOC120768037	sodium/potassium-transporting ATPase subunit beta-2 isoform X1
+XP_039950471.1	LOC120768037	sodium/potassium-transporting ATPase subunit beta-2 isoform X1
+XP_039951781.1	LOC120769007	sodium/potassium/calcium exchanger Nckx30C
+XP_039952315.1	LOC120769403	uncharacterized protein LOC120769403
+XP_039950890.1	LOC120768316	pickpocket protein 11-like
+XP_039951111.1	LOC120768471	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like protein 1
+XP_039951004.1	LOC120768397	alpha-ketoglutarate-dependent dioxygenase alkB homolog 4
+XP_039951943.1	LOC120769137	nuclear hormone receptor FTZ-F1 beta
+XP_039951944.1	LOC120769137	nuclear hormone receptor FTZ-F1 beta
+XP_039949899.1	LOC120767751	uncharacterized protein LOC120767751
+XP_039950386.1	LOC120768013	cytohesin-1 isoform X2
+XP_039950387.1	LOC120768013	cytohesin-1 isoform X3
+XP_039950383.1	LOC120768013	cytohesin-1 isoform X1
+XP_039950384.1	LOC120768013	cytohesin-1 isoform X1
+XP_039950385.1	LOC120768013	cytohesin-1 isoform X1
+XP_039950355.1	LOC120767999	RNA polymerase I-specific transcription initiation factor RRN3
+XP_039951899.1	LOC120769104	uncharacterized protein LOC120769104
+XP_039952492.1	LOC120769521	homeotic protein female sterile
+XP_039950198.1	LOC120767909	serine-rich adhesin for platelets isoform X3
+XP_039950197.1	LOC120767909	serine-rich adhesin for platelets isoform X2
+XP_039950199.1	LOC120767909	serine-rich adhesin for platelets isoform X4
+XP_039950196.1	LOC120767909	serine-rich adhesin for platelets isoform X1
+XP_039950201.1	LOC120767909	uncharacterized protein LOC120767909 isoform X6
+XP_039950200.1	LOC120767909	serine-rich adhesin for platelets isoform X5
+XP_039951369.1	LOC120768658	thrombospondin type-1 domain-containing protein 4 isoform X1
+XP_039951370.1	LOC120768658	thrombospondin type-1 domain-containing protein 4 isoform X2
+XP_039951371.1	LOC120768658	thrombospondin type-1 domain-containing protein 4 isoform X2
+XP_039953163.1	LOC120770081	neogenin isoform X6
+XP_039953162.1	LOC120770081	neogenin isoform X5
+XP_039953161.1	LOC120770081	netrin receptor DCC isoform X4
+XP_039953160.1	LOC120770081	netrin receptor DCC isoform X3
+XP_039953159.1	LOC120770081	netrin receptor DCC isoform X2
+XP_039953157.1	LOC120770081	netrin receptor DCC isoform X1
+XP_039953203.1	LOC120770100	potassium voltage-gated channel subfamily KQT member 4 isoform X4
+XP_039953201.1	LOC120770100	potassium voltage-gated channel subfamily KQT member 1 isoform X2
+XP_039953202.1	LOC120770100	potassium voltage-gated channel subfamily KQT member 1 isoform X3
+XP_039953200.1	LOC120770100	potassium voltage-gated channel subfamily KQT member 1 isoform X1
+XP_039953205.1	LOC120770100	uncharacterized protein LOC120770100 isoform X6
+XP_039953204.1	LOC120770100	potassium voltage-gated channel subfamily KQT member 1 isoform X5
+XP_039954388.1	LOC120770851	protein spinster isoform X1
+XP_039954389.1	LOC120770851	protein spinster isoform X2
+XP_039956404.1	LOC120772076	23 kDa integral membrane protein-like
+XP_039956732.1	LOC120772288	uncharacterized protein LOC120772288
+XP_039957996.1	LOC120773094	alaserpin-like
+XP_039958021.1	LOC120773108	sodium/potassium-transporting ATPase subunit beta-1-interacting protein isoform X3
+XP_039958020.1	LOC120773108	uncharacterized protein DDB_G0283357 isoform X2
+XP_039958017.1	LOC120773108	sodium/potassium-transporting ATPase subunit beta-1-interacting protein isoform X1
+XP_039958018.1	LOC120773108	sodium/potassium-transporting ATPase subunit beta-1-interacting protein isoform X1
+XP_039958019.1	LOC120773108	sodium/potassium-transporting ATPase subunit beta-1-interacting protein isoform X1
+XP_039955695.1	LOC120771649	uncharacterized protein LOC120771649 isoform X1
+XP_039955696.1	LOC120771649	uncharacterized protein LOC120771649 isoform X1
+XP_039955697.1	LOC120771649	uncharacterized protein LOC120771649 isoform X2
+XP_039955581.1	LOC120771579	serine/threonine-protein kinase STY13
+XP_039958007.1	LOC120773102	homeobox protein 5 isoform X1
+XP_039958009.1	LOC120773102	terminal nucleotidyltransferase 5C isoform X3
+XP_039958008.1	LOC120773102	terminal nucleotidyltransferase 5C isoform X2
+XP_039958010.1	LOC120773102	terminal nucleotidyltransferase 5C isoform X4
+XP_039958011.1	LOC120773102	terminal nucleotidyltransferase 5C isoform X4
+XP_039957519.1	LOC120772802	lysosome membrane protein 2
+XP_039953634.1	LOC120770318	nephrin isoform X4
+XP_039953630.1	LOC120770318	nephrin isoform X1
+XP_039953631.1	LOC120770318	nephrin isoform X1
+XP_039953632.1	LOC120770318	nephrin isoform X2
+XP_039953633.1	LOC120770318	nephrin isoform X3
+XP_039957695.1	LOC120772891	uncharacterized protein LOC120772891
+XP_039956711.1	LOC120772273	centrosomal protein of 131 kDa
+XP_039954508.1	LOC120770902	putative inorganic phosphate cotransporter isoform X2
+XP_039954507.1	LOC120770902	putative inorganic phosphate cotransporter isoform X1
+XP_039954509.1	LOC120770902	putative inorganic phosphate cotransporter isoform X3
+XP_039954033.1	LOC120770542	putative polypeptide N-acetylgalactosaminyltransferase 9 isoform X2
+XP_039954032.1	LOC120770542	putative polypeptide N-acetylgalactosaminyltransferase 9 isoform X1
+XP_039957024.1	LOC120772463	cytochrome P450 6g1-like
+XP_039953731.1	LOC120770378	lamin-B receptor
+XP_039953732.1	LOC120770378	lamin-B receptor
+XP_039954299.1	LOC120770786	uncharacterized protein LOC120770786
+XP_039954570.1	LOC120770931	protein king tubby
+XP_039953807.1	LOC120770424	serine-rich adhesin for platelets isoform X1
+XP_039953808.1	LOC120770424	serine-rich adhesin for platelets isoform X2
+XP_039957622.1	LOC120772861	serine/threonine-protein kinase 10 isoform X3
+XP_039957617.1	LOC120772861	serine/threonine-protein kinase 10 isoform X1
+XP_039957618.1	LOC120772861	serine/threonine-protein kinase 10 isoform X1
+XP_039957619.1	LOC120772861	serine/threonine-protein kinase 10 isoform X1
+XP_039957620.1	LOC120772861	serine/threonine-protein kinase 10 isoform X1
+XP_039957621.1	LOC120772861	serine/threonine-protein kinase 10 isoform X2
+XP_039956840.1	LOC120772343	sialin
+XP_039953359.1	LOC120770192	NAD kinase isoform X2
+XP_039953361.1	LOC120770192	NAD kinase isoform X4
+XP_039953357.1	LOC120770192	NAD kinase isoform X1
+XP_039953358.1	LOC120770192	NAD kinase isoform X1
+XP_039953360.1	LOC120770192	NAD kinase isoform X3
+XP_039953362.1	LOC120770192	NAD kinase isoform X5
+XP_039953364.1	LOC120770192	NAD kinase isoform X5
+XP_039953365.1	LOC120770192	NAD kinase isoform X5
+XP_039953701.1	LOC120770358	coiled-coil and C2 domain-containing protein 2A
+XP_039953702.1	LOC120770358	coiled-coil and C2 domain-containing protein 2A
+XP_039953703.1	LOC120770358	coiled-coil and C2 domain-containing protein 2A
+XP_039955750.1	LOC120771685	spondin-1
+XP_039957062.1	LOC120772483	uncharacterized protein LOC120772483 isoform X1
+XP_039957063.1	LOC120772483	uncharacterized protein LOC120772483 isoform X1
+XP_039957064.1	LOC120772483	uncharacterized protein LOC120772483 isoform X2
+XP_039955456.1	LOC120771484	potassium voltage-gated channel subfamily KQT member 4-like
+XP_039956464.1	LOC120772119	uncharacterized protein LOC120772119
+XP_039953810.1	LOC120770426	7SK snRNA methylphosphate capping enzyme bin3
+XP_039953811.1	LOC120770426	7SK snRNA methylphosphate capping enzyme bin3
+XP_039954934.1	LOC120771135	zinc finger protein jing isoform X1
+XP_039954935.1	LOC120771135	zinc finger protein jing isoform X2
+XP_039955582.1	LOC120771580	protein stum isoform X1
+XP_039955583.1	LOC120771580	protein stum isoform X1
+XP_039955584.1	LOC120771580	protein stum isoform X2
+XP_039959572.1	LOC120774198	dorsal-ventral patterning protein Sog
+XP_039959573.1	LOC120774198	dorsal-ventral patterning protein Sog
+XP_039960550.1	LOC120774813	nose resistant to fluoxetine protein 6-like
+XP_039961590.1	LOC120775466	adenylate cyclase type 9 isoform X1
+XP_039961591.1	LOC120775466	adenylate cyclase type 9 isoform X2
+XP_039961592.1	LOC120775466	adenylate cyclase type 9 isoform X2
+XP_039959350.1	LOC120774085	peptide transporter family 1-like
+XP_039961406.1	LOC120775330	putative uncharacterized protein DDB_G0282129
+XP_039960066.1	LOC120774475	GAS2-like protein pickled eggs
+XP_039958253.1	LOC120773437	tyrosine-protein phosphatase 10D-like isoform X2
+XP_039958252.1	LOC120773437	tyrosine-protein phosphatase 10D-like isoform X1
+XP_039958254.1	LOC120773437	tyrosine-protein phosphatase 10D-like isoform X3
+XP_039962284.1	LOC120775940	protein CWC15 homolog
+XP_039960749.1	LOC120774936	uncharacterized protein LOC120774936 isoform X1
+XP_039960750.1	LOC120774936	uncharacterized protein LOC120774936 isoform X2
+XP_039962603.1	LOC120776135	anoctamin-6 isoform X1
+XP_039962606.1	LOC120776135	anoctamin-6 isoform X4
+XP_039962611.1	LOC120776135	anoctamin-1 isoform X7
+XP_039962605.1	LOC120776135	anoctamin-6 isoform X3
+XP_039962604.1	LOC120776135	anoctamin-6 isoform X2
+XP_039962607.1	LOC120776135	anoctamin-6 isoform X5
+XP_039962608.1	LOC120776135	anoctamin-6 isoform X5
+XP_039962609.1	LOC120776135	anoctamin-1 isoform X6
+XP_039959378.1	LOC120774096	double-stranded RNA-specific editase Adar isoform X2
+XP_039959375.1	LOC120774096	double-stranded RNA-specific editase Adar isoform X1
+XP_039959376.1	LOC120774096	double-stranded RNA-specific editase Adar isoform X1
+XP_039959377.1	LOC120774096	double-stranded RNA-specific editase Adar isoform X1
+XP_039958825.1	LOC120773792	cytosolic purine 5'-nucleotidase isoform X3
+XP_039958826.1	LOC120773792	cytosolic purine 5'-nucleotidase isoform X4
+XP_039958827.1	LOC120773792	cytosolic purine 5'-nucleotidase isoform X4
+XP_039958823.1	LOC120773792	cytosolic purine 5'-nucleotidase isoform X2
+XP_039958824.1	LOC120773792	cytosolic purine 5'-nucleotidase isoform X2
+XP_039958821.1	LOC120773792	cytosolic purine 5'-nucleotidase isoform X1
+XP_039962026.1	LOC120775759	adenylate cyclase, terminal-differentiation specific
+XP_039961311.1	LOC120775279	uncharacterized protein LOC120775279
+XP_039961103.1	LOC120775139	N-acetylgalactosaminyltransferase 7
+XP_039962757.1	LOC120776197	uncharacterized protein LOC120776197
+XP_039959346.1	LOC120774084	protein Tob1 isoform X1
+XP_039959347.1	LOC120774084	protein Tob1 isoform X1
+XP_039959348.1	LOC120774084	protein Tob1 isoform X1
+XP_039959349.1	LOC120774084	protein Tob1 isoform X2
+XP_039962238.1	LOC120775912	pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 isoform X1
+XP_039962239.1	LOC120775912	pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 isoform X2
+XP_039959889.1	LOC120774365	uncharacterized protein LOC120774365 isoform X1
+XP_039959890.1	LOC120774365	uncharacterized protein LOC120774365 isoform X1
+XP_039959891.1	LOC120774365	uncharacterized protein LOC120774365 isoform X1
+XP_039959892.1	LOC120774365	AF4/FMR2 family member lilli isoform X2
+XP_039959893.1	LOC120774365	AF4/FMR2 family member lilli isoform X3
+XP_039959894.1	LOC120774365	AF4/FMR2 family member lilli isoform X4
+XP_039958298.1	LOC120773463	aminoacylase-1-like
+XP_039958299.1	LOC120773463	aminoacylase-1-like
+XP_039958614.1	LOC120773663	zinc finger SWIM domain-containing protein 8
+XP_039962739.1	LOC120776185	protein kinase 4-like isoform X1
+XP_039962740.1	LOC120776185	protein kinase 4-like isoform X1
+XP_039962741.1	LOC120776185	uncharacterized protein LOC120776185 isoform X2
+XP_039962742.1	LOC120776185	uncharacterized protein LOC120776185 isoform X2
+XP_039959649.1	LOC120774251	protein obstructor-E-like isoform X1
+XP_039959650.1	LOC120774251	protein obstructor-E-like isoform X2
+XP_039961324.1	LOC120775283	galactokinase-like
+XP_039961325.1	LOC120775283	galactokinase-like
+XP_039961326.1	LOC120775283	galactokinase-like
+XP_039961327.1	LOC120775283	galactokinase-like
+XP_039961328.1	LOC120775283	galactokinase-like
+XP_039961329.1	LOC120775283	galactokinase-like
+XP_039959179.1	LOC120773986	furin-like protease 2
+XP_039959180.1	LOC120773986	furin-like protease 2
+XP_039959181.1	LOC120773986	furin-like protease 2
+XP_039960866.1	LOC120775003	protein scalloped isoform X4
+XP_039960867.1	LOC120775003	protein scalloped isoform X4
+XP_039960868.1	LOC120775003	protein scalloped isoform X4
+XP_039960869.1	LOC120775003	protein scalloped isoform X4
+XP_039960863.1	LOC120775003	protein scalloped isoform X1
+XP_039960864.1	LOC120775003	protein scalloped isoform X2
+XP_039960865.1	LOC120775003	protein scalloped isoform X3
+XP_039960870.1	LOC120775003	protein scalloped isoform X5
+XP_039960871.1	LOC120775003	protein scalloped isoform X6
+XP_039958717.1	LOC120773727	netrin-A-like
+XP_039962479.1	LOC120776076	netrin-B
+XP_039959100.1	LOC120773947	uncharacterized protein LOC120773947 isoform X3
+XP_039959101.1	LOC120773947	uncharacterized protein LOC120773947 isoform X3
+XP_039959102.1	LOC120773947	uncharacterized protein LOC120773947 isoform X4
+XP_039959098.1	LOC120773947	uncharacterized protein LOC120773947 isoform X1
+XP_039959099.1	LOC120773947	uncharacterized protein LOC120773947 isoform X2
+XP_039961379.1	LOC120775310	tRNA dimethylallyltransferase
+XP_039958438.1	LOC120773544	rho GTPase-activating protein 26 isoform X1
+XP_039958439.1	LOC120773544	rho GTPase-activating protein 26 isoform X1
+XP_039958440.1	LOC120773544	rho GTPase-activating protein 26 isoform X2
+XP_039958441.1	LOC120773544	rho GTPase-activating protein 26 isoform X3
+XP_039961344.1	LOC120775294	nuclear pore complex protein Nup88
+XP_039962500.1	LOC120776088	LOW QUALITY PROTEIN: microtubule-associated protein futsch
+XP_039958603.1	LOC120773656	multivesicular body subunit 12A
+XP_039960745.1	LOC120774933	uncharacterized protein LOC120774933
+XP_039959258.1	LOC120774028	poly(U)-binding-splicing factor half pint isoform X1
+XP_039959259.1	LOC120774028	poly(U)-binding-splicing factor half pint isoform X2
+XP_039959260.1	LOC120774028	poly(U)-binding-splicing factor half pint isoform X2
+XP_039960731.1	LOC120774921	uncharacterized protein LOC120774921
+XP_039959564.1	LOC120774195	calcitonin gene-related peptide type 1 receptor
+XP_039959565.1	LOC120774195	calcitonin gene-related peptide type 1 receptor
+XP_039959566.1	LOC120774195	calcitonin gene-related peptide type 1 receptor
+XP_039959567.1	LOC120774195	calcitonin gene-related peptide type 1 receptor
+XP_039959568.1	LOC120774195	calcitonin gene-related peptide type 1 receptor
+XP_039958505.1	LOC120773584	anaphase-promoting complex subunit 7
+XP_039958506.1	LOC120773584	anaphase-promoting complex subunit 7
+XP_039958508.1	LOC120773586	putative uncharacterized protein DDB_G0290521 isoform X1
+XP_039958510.1	LOC120773586	putative uncharacterized protein DDB_G0290521 isoform X2
+XP_039958511.1	LOC120773586	putative uncharacterized protein DDB_G0290521 isoform X3
+XP_039965777.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965779.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965780.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965781.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965782.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965783.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965784.1	LOC120778132	phosphatase and actin regulator 2 isoform X1
+XP_039965785.1	LOC120778132	phosphatase and actin regulator 2 isoform X2
+XP_039965786.1	LOC120778132	phosphatase and actin regulator 2 isoform X3
+XP_039965787.1	LOC120778132	phosphatase and actin regulator 2 isoform X4
+XP_039965791.1	LOC120778132	phosphatase and actin regulator 4 isoform X7
+XP_039965790.1	LOC120778132	phosphatase and actin regulator 4B isoform X6
+XP_039965788.1	LOC120778132	phosphatase and actin regulator 4B isoform X5
+XP_039962881.1	LOC120776368	allatostatins MIP
+XP_039965136.1	LOC120777716	serine-rich adhesin for platelets isoform X3
+XP_039965134.1	LOC120777716	serine-rich adhesin for platelets isoform X2
+XP_039965133.1	LOC120777716	serine-rich adhesin for platelets isoform X1
+XP_039965137.1	LOC120777716	uncharacterized protein LOC120777716 isoform X4
+XP_039965138.1	LOC120777716	uncharacterized protein LOC120777716 isoform X5
+XP_039965139.1	LOC120777716	uncharacterized protein LOC120777716 isoform X6
+XP_039965397.1	LOC120777893	T-box protein 2-like
+XP_039963770.1	LOC120776818	hippocampus abundant transcript 1 protein isoform X2
+XP_039963771.1	LOC120776818	hippocampus abundant transcript 1 protein isoform X2
+XP_039963769.1	LOC120776818	hippocampus abundant transcript 1 protein isoform X1
+XP_039964009.1	LOC120776978	LOW QUALITY PROTEIN: cytochrome P450 4d8-like
+XP_039966512.1	LOC120778658	uncharacterized protein LOC120778658
+XP_039966513.1	LOC120778658	uncharacterized protein LOC120778658
+XP_039966514.1	LOC120778658	uncharacterized protein LOC120778658
+XP_039965019.1	LOC120777633	uncharacterized protein LOC120777633
+XP_039965941.1	LOC120778246	DNA N6-methyl adenine demethylase isoform X2
+XP_039965940.1	LOC120778246	DNA N6-methyl adenine demethylase isoform X1
+XP_039964930.1	LOC120777582	gonadotropin-releasing hormone receptor
+XP_039964931.1	LOC120777582	gonadotropin-releasing hormone receptor
+XP_039964302.1	LOC120777199	uncharacterized protein LOC120777199
+XP_039967181.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X1
+XP_039967182.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X1
+XP_039967183.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X1
+XP_039967184.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X1
+XP_039967185.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X1
+XP_039967186.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X1
+XP_039967187.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X2
+XP_039967188.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X3
+XP_039967189.1	LOC120779091	RNA-binding protein Musashi homolog Rbp6 isoform X4
+XP_039964286.1	LOC120777186	uncharacterized protein LOC120777186 isoform X1
+XP_039964287.1	LOC120777186	uncharacterized protein LOC120777186 isoform X2
+XP_039964288.1	LOC120777186	uncharacterized protein LOC120777186 isoform X3
+XP_039964289.1	LOC120777186	uncharacterized protein LOC120777186 isoform X4
+XP_039966783.1	LOC120778834	cAMP-dependent protein kinase type I regulatory subunit isoform X2
+XP_039966785.1	LOC120778834	cAMP-dependent protein kinase type I regulatory subunit isoform X3
+XP_039966786.1	LOC120778834	cAMP-dependent protein kinase type I regulatory subunit isoform X3
+XP_039966787.1	LOC120778834	cAMP-dependent protein kinase type I regulatory subunit isoform X3
+XP_039966782.1	LOC120778834	cAMP-dependent protein kinase type I regulatory subunit isoform X1
+XP_039966596.1	LOC120778701	uncharacterized protein LOC120778701 isoform X3
+XP_039966595.1	LOC120778701	uncharacterized protein LOC120778701 isoform X2
+XP_039966592.1	LOC120778701	uncharacterized protein LOC120778701 isoform X1
+XP_039966593.1	LOC120778701	uncharacterized protein LOC120778701 isoform X1
+XP_039966594.1	LOC120778701	uncharacterized protein LOC120778701 isoform X1
+XP_039965444.1	LOC120777927	ceramide transfer protein
+XP_039966434.1	LOC120778618	transcription factor AP-2-epsilon isoform X3
+XP_039966437.1	LOC120778618	transcription factor AP-2-epsilon isoform X6
+XP_039966432.1	LOC120778618	transcription factor AP-2-epsilon isoform X1
+XP_039966435.1	LOC120778618	transcription factor AP-2-epsilon isoform X4
+XP_039966433.1	LOC120778618	transcription factor AP-2-epsilon isoform X2
+XP_039966436.1	LOC120778618	transcription factor AP-2-epsilon isoform X5
+XP_039965807.1	LOC120778150	homeobox protein Hox-D4a
+XP_039965578.1	LOC120777995	uncharacterized protein LOC120777995
+XP_039965579.1	LOC120777995	uncharacterized protein LOC120777995
+XP_039965580.1	LOC120777995	uncharacterized protein LOC120777995
+XP_039965581.1	LOC120777995	uncharacterized protein LOC120777995
+XP_039965583.1	LOC120777995	uncharacterized protein LOC120777995
+XP_039965584.1	LOC120777995	uncharacterized protein LOC120777995
+XP_039966515.1	LOC120778659	uncharacterized protein LOC120778659
+XP_039966516.1	LOC120778659	uncharacterized protein LOC120778659
+XP_039965421.1	LOC120777905	protein TANC2
+XP_039965865.1	LOC120778193	ecdysone-induced protein 75B, isoforms C/D isoform X1
+XP_039965869.1	LOC120778193	ecdysone-induced protein 75B, isoforms C/D isoform X4
+XP_039965868.1	LOC120778193	ecdysone-induced protein 75B, isoforms C/D isoform X3
+XP_039965866.1	LOC120778193	ecdysone-induced protein 75B, isoforms C/D isoform X2
+XP_039965870.1	LOC120778193	ecdysone-induced protein 75B, isoforms C/D isoform X5
+XP_039965871.1	LOC120778193	ecdysone-induced protein 75B, isoforms C/D isoform X6
+XP_039968243.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X4
+XP_039968246.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X7
+XP_039968245.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X6
+XP_039968240.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X2
+XP_039968244.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X5
+XP_039968241.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X3
+XP_039968242.1	LOC120780022	calcium/calmodulin-dependent protein kinase type 1-like isoform X3
+XP_039968239.1	LOC120780022	uncharacterized protein LOC120780022 isoform X1
+XP_039968316.1	LOC120780099	growth factor receptor-bound protein 2
+XP_039969251.1	LOC120781199	extracellular matrix-binding protein ebh-like

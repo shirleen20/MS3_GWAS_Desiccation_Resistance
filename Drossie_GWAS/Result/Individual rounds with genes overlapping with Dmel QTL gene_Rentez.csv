@@ -1,0 +1,89 @@
+"","GeneID","REFSEQ","GeneName","FLYBASE","Gene_name","R4","R5","R6"
+"1","LOC120766490","NP_001163506.2","uncharacterized protein LOC120766490","FBgn0087012","5-HT2",1,1,1
+"2","LOC120771243","NP_731316.2","maternal protein pumilio","FBgn0003165","pum",1,1,1
+"3","LOC120782703","NP_001263038.1","protein fork head-like","FBgn0000659","fkh",1,0,0
+"4","LOC120769187","NP_722941.1","protein bowel","FBgn0004893","bowl",1,0,0
+"5","LOC120768152","NP_476780.1","zinc finger protein ush","FBgn0003963","ush",1,0,0
+"6","LOC120769007","NP_652011.3","sodium/potassium/calcium exchanger Nckx30C","FBgn0028704","Nckx30C",1,1,1
+"7","LOC120770424","NP_724980.1","serine-rich adhesin for platelets isoform X2","FBgn0050015","CG30015",1,1,1
+"8","LOC120770192","NP_725314.1","NAD kinase isoform X1","FBgn0033853",NA,1,1,1
+"9","LOC120774198","NP_476736.1","dorsal-ventral patterning protein Sog","FBgn0003463","sog",1,1,1
+"10","LOC120776135","NP_727578.3","anoctamin-1 isoform X6","FBgn0030349",NA,1,1,1
+"11","LOC120778132","NP_728897.1","phosphatase and actin regulator 2 isoform X1","FBgn0052264",NA,1,1,1
+"12","LOC120777716","NP_001261211.1","uncharacterized protein LOC120777716 isoform X6","FBgn0001316","klar",1,0,0
+"13","LOC120777199","NP_001137941.2","uncharacterized protein LOC120777199","FBgn0036302","sowah",1,1,1
+"14","LOC120779091","NP_001261979.1","RNA-binding protein Musashi homolog Rbp6 isoform X4","FBgn0260943","Rbp6",1,1,1
+"15","LOC120777186","NP_649266.1","uncharacterized protein LOC120777186 isoform X4","FBgn0052432","CG32432",1,1,1
+"16","LOC120778193","NP_730321.1","""ecdysone-induced protein 75B, isoforms C/D isoform X6""","FBgn0000568","Eip75B",1,1,1
+"17","LOC120782344","NP_650864.1","S-formylglutathione hydrolase","FBgn0038771",NA,0,1,1
+"18","LOC120782428","NP_650827.3","glutamate-gated chloride channel isoform X1","FBgn0024963","GluClalpha",0,1,1
+"19","LOC120767948","NP_732594.1","5'-AMP-activated protein kinase subunit gamma-1 isoform X7","FBgn0264357","SNF4Agamma",0,1,1
+"20","LOC120779797","NP_001036753.1","protein CREBRF homolog","FBgn0039209","Reptor",0,1,1
+"21","LOC120766480","NP_651649.1","lachesin isoform X1","FBgn0039617","CG14521",0,1,1
+"22","LOC120766752","NP_524896.2","homeobox protein abdominal-B-like","FBgn0000015","abd-B",0,1,1
+"23","LOC120778030","NP_996226.2","Down syndrome cell adhesion molecule-like protein Dscam2 isoform X3","FBgn0261046","Dscam3",0,1,1
+"24","LOC120782656","NP_650348.1","""methionine--tRNA ligase, mitochondrial""","FBgn0027083","Aats-met",0,1,1
+"25","LOC120766984","NP_732345.1","sex determination protein fruitless isoform X2","FBgn0004652","fru",0,1,1
+"26","LOC120768774","NP_733328.1","putative uncharacterized protein DDB_G0277255","FBgn0051038",NA,0,1,1
+"27","LOC120782560","NP_524466.1","protein pellino","FBgn0025574","Pli",0,1,1
+"28","LOC120773612","NP_001014624.1","uncharacterized protein LOC120773612","FBgn0266756","btsz",0,1,1
+"29","LOC120772315","NP_476867.1","G protein-coupled receptor kinase 2 isoform X1","FBgn0261988","Gprk2",0,1,1
+"30","LOC120777855","NP_524384.3","uncharacterized protein LOC120777855","FBgn0038498","beat-Iia",0,1,1
+"31","LOC120769634","NP_649454.3","uncharacterized protein LOC120769634 isoform X1","FBgn0037234",NA,0,1,1
+"32","LOC120782628","NP_001247233.1","uncharacterized protein LOC120782628","FBgn0051163","SKIP",0,1,1
+"33","LOC120768130","NP_724262.1","calmodulin-lysine N-methyltransferase","FBgn0032857","CG10947",0,1,1
+"34","LOC120768521","NP_608792.1","intraflagellar transport protein 57 homolog","FBgn0031550","Che-13",0,1,1
+"35","LOC120769801","NP_995628.1","""cGMP-dependent protein kinase, isozyme 2 forms cD5/T2 isoform X2""","FBgn0000721","for",0,1,1
+"36","LOC120769380","NP_609212.2","uncharacterized protein LOC120769380","FBgn0032023","CG14274",0,1,1
+"37","LOC120767326","NP_609188.4","piezo-type mechanosensitive ion channel component isoform X7","FBgn0264953","Piezo",0,1,1
+"38","LOC120769384","NP_787975.1","neural cell adhesion molecule 1","FBgn0031627","CG15630",0,1,1
+"39","LOC120767306","NP_001260235.1","vascular endothelial growth factor receptor 1 isoform X10","FBgn0032006","Pvr",0,1,1
+"40","LOC120768668","NP_723294.1","myosin-VIIa","FBgn0040299","Myo28B1",0,1,1
+"41","LOC120767961","NP_722674.1","protein Star","FBgn0003310","S",0,1,1
+"42","LOC120769485","NP_723277.3","protein peste-like","FBgn0025697","santa-maria",0,1,1
+"43","LOC120767247","NP_001400990.1","protein timeless isoform X4","FBgn0014396","tim",0,1,1
+"44","LOC120768294","NP_723600.2","E3 ubiquitin-protein ligase TRIM9 isoform X1","FBgn0051721","Trim9",0,1,1
+"45","LOC120767723","NP_609013.1","tyrosine-protein phosphatase non-receptor type 14","FBgn0031799","pez",0,1,1
+"46","LOC120768110","NP_001260265.1","semaphorin-1A","FBgn0011259","Sema-1a",0,1,1
+"47","LOC120768539","NP_001097131.2","uncharacterized protein LOC120768539","FBgn0085395","Shawl",0,1,1
+"48","LOC120767559","NP_001036401.1","scavenger receptor class B member 1 isoform X1","FBgn0058006","CG40006",0,1,1
+"49","LOC120769117","NP_608961.2","venom dipeptidyl peptidase 4","FBgn0031741",NA,0,1,1
+"50","LOC120767315","NP_001260440.1","uncharacterized protein LOC120767315 isoform X1","FBgn0264894","CG44085",0,1,1
+"51","LOC120767342","NP_001260603.1","protein sickie isoform X3","FBgn0263873","sick",0,1,1
+"52","LOC120770067","NP_725051.2","aquaporin isoform X1","FBgn0015872","Drip",0,1,1
+"53","LOC120772629","NP_523717.1","myc box-dependent-interacting protein 1 isoform X4","FBgn0027356","Amph",0,1,1
+"54","LOC120770237","NP_610667.2","uncharacterized protein LOC120770237 isoform X2","FBgn0259238",NA,0,1,1
+"55","LOC120772190","NP_725472.1","polypeptide N-acetylgalactosaminyltransferase 1","FBgn0034025","GalNAc-T1",0,1,1
+"56","LOC120772512","NP_610442.2","angiotensin-converting enzyme","FBgn0033366","Ance-4",0,1,1
+"57","LOC120772698","NP_724787.1","putative phosphatidate phosphatase","FBgn0016078","wun",0,1,1
+"58","LOC120771627","NP_995811.1","Krueppel-like factor luna","FBgn0040765","luna",0,1,1
+"59","LOC120771379","NP_611167.2","flocculation protein FLO11 isoform X2","FBgn0025833",NA,0,1,1
+"60","LOC120770341","NP_611619.2","nyctalopin","FBgn0085397","Fili",0,1,1
+"61","LOC120771662","NP_611624.3","integral membrane protein GPR180","FBgn0034674",NA,0,1,1
+"62","LOC120771287","NP_725205.1","proton-coupled amino acid transporter-like protein pathetic","FBgn0033760",NA,0,1,1
+"63","LOC120772145","NP_611462.1","sialin","FBgn0034490",NA,0,1,1
+"64","LOC120775967","NP_996411.2","death-associated protein kinase related","FBgn0052666","Drak",0,1,1
+"65","LOC120773697","NP_727979.3","zinc finger protein hangover","FBgn0026575","hang",0,1,1
+"66","LOC120775939","NP_572563.3","low-density lipoprotein receptor-related protein 2 isoform X1","FBgn0261260","mgl",0,1,1
+"67","LOC120776049","NP_726854.2","""cAMP-specific 3',5'-cyclic phosphodiesterase isoform X6""","FBgn0000479","dnc",0,1,1
+"68","LOC120773994","NP_001259643.1","homeobox protein prospero-like","FBgn0263706",NA,0,1,1
+"69","LOC120774364","NP_001245565.1","homeobox protein cut isoform X2","FBgn0004198","ct",0,1,1
+"70","LOC120774114","NP_572834.2","""high affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A""","FBgn0259171","pde9",0,1,1
+"71","LOC120775472","NP_477130.1","tyrosine-protein phosphatase corkscrew isoform X2","FBgn0000382","csw",0,1,1
+"72","LOC120779145","NP_996016.2","uncharacterized protein LOC120779145 isoform X7","FBgn0035802","Pura",0,1,1
+"73","LOC120776780","NP_729555.4","uncharacterized protein LOC120776780","FBgn0044328","CG32052",0,1,1
+"74","LOC120778498","NP_001261759.1","bumetanide-sensitive sodium-(potassium)-chloride cotransporter isoform X1","FBgn0036279","Ncc69",0,1,1
+"75","LOC120777635","NP_477062.1","uncharacterized protein LOC120777635","FBgn0013469","klu",0,1,1
+"76","LOC120777200","NP_729816.4","uncharacterized protein LOC120777200","FBgn0036302","sowah",0,1,1
+"77","LOC120778510","NP_608791.2","protein Spindly","FBgn0031549","Spindly",0,1,1
+"78","LOC120777847","NP_647671.1","transmembrane protein 134","FBgn0035285","CG12025",0,1,1
+"79","LOC120779134","NP_001286954.1","""calcium uniporter protein, mitochondrial""","FBgn0042185","MCU",0,1,1
+"80","LOC120778717","NP_001261687.1","ninjurin-1-like","FBgn0036101","NijA",0,1,1
+"81","LOC120776848","NP_001246662.1","NAD(+) hydrolase sarm1 isoform X9","FBgn0262579","Ect4",0,1,1
+"82","LOC120777770","NP_524788.2","protein naked cuticle","FBgn0002945","nkd",0,1,1
+"83","LOC120778286","NP_524812.1","frizzled","FBgn0001085","fz",0,1,1
+"84","LOC120777228","NP_001137953.1","mucin-17 isoform X1","FBgn0087007","bbg",0,1,1
+"85","LOC120777769","NP_730006.1","Y+L amino acid transporter 2","FBgn0002778","mnd",0,1,1
+"86","LOC120776614","NP_001369051.1","CUGBP Elav-like family member 4 isoform X5","FBgn0264001","bru-3",0,1,1
+"87","LOC120776796","NP_730369.1","long-chain-fatty-acid--CoA ligase 5 isoform X3","FBgn0036821",NA,0,1,1
+"88","LOC120781141","NP_728398.1","loricrin-like","FBgn0052521","CG32521",0,1,1
